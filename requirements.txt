@@ -1,6 +1,7 @@
-fastapi
-uvicorn
+fastapi==0.115.5
+uvicorn==0.32.0
 youtube-transcript-api==0.6.2
-yt-dlp
-webvtt-py
-requests
+yt-dlp==2024.12.13
+webvtt-py==0.6.0
+requests==2.32.3
+openai==1.51.0
